@@ -44,3 +44,7 @@ timeago.format('2018-09-07', 'zh_CN')
 timeago.format(11111111111);
 ```
 
+```html
+<div class="needs_to_be_rendered" datetime="2018-06-30 09:20:00"></div>
+<script src="dist/timeago.min.js"></script>
+```
